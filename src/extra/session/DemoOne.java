@@ -13,4 +13,9 @@ public class DemoOne {
 		
 		System.out.println("Tahmina");
 	}
+	public static void subtractThreeNumbers(int numOne, int numTwo, int numThree) {
+		System.out.println(numOne - numTwo - numThree); //Diana
+
+	}
+
 }
