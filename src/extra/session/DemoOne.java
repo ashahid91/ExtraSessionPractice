@@ -5,6 +5,9 @@ public class DemoOne {
 		System.out.println("Let the fun begin");
 		System.out.println("I am ready ;)");
 	}
+	public static void addName(int sajia) {
+		System.out.println(sajia);
+	}
 
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
