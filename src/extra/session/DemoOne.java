@@ -9,4 +9,8 @@ public class DemoOne {
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 	}
+	public static void getName(String name) {
+		
+		System.out.println("Tahmina");
+	}
 }
