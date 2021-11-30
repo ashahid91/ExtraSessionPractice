@@ -7,6 +7,10 @@ public class DemoOne {
 		
 		getName("Amanda");
 	}
+	
+	public static void CherylMethod() {
+		System.out.println("let's start the conflicts");
+	}
 
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
