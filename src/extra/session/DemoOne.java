@@ -4,6 +4,12 @@ public class DemoOne {
 	public static void main(String[] args) {
 		System.out.println("Let the fun begin");
 		System.out.println("I am ready ;)");
+		
+		getName("Amanda");
+	}
+	
+	public static void CherylMethod() {
+		System.out.println("let's start the conflicts");
 	}
 
 	public static void OscartestingOne() {
@@ -15,5 +21,9 @@ public class DemoOne {
 	public static void getName(String name) {
 		
 		System.out.println("Tahmina");
+	}
+	
+	public static void getName(String name) {
+		System.out.println(name);
 	}
 }
