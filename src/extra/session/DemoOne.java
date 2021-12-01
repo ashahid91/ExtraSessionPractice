@@ -36,6 +36,8 @@ public class DemoOne {
 
 		System.out.println("let's start the conflicts");
 
+		System.out.println("let's start the conflicts");
+
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
 
@@ -61,10 +63,15 @@ public class DemoOne {
 		return result;
 	}
 
+
+
 	public static void shahid() {
 		System.out.println("random");
 
 	}
+
+
+	
 
 	public static void getMyname(String name) {
 		System.out.println("My name is: " + name);
@@ -120,6 +127,10 @@ public class DemoOne {
 		System.out.println(a + b);
 		System.out.println("****************************");
 	}
+
+
+
+
 
 	public static void main(String count) {
 
