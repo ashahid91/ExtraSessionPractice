@@ -5,19 +5,16 @@ public class DemoOne {
 		System.out.println("Let the fun begin");
 		System.out.println("I am ready ;)");
 
-
 		String name = "waheeda";
-
 
 		getName("Amanda");
 
 		addNum(20, 30);
-		addNum(20,30);
-
-
+		addNum(20, 30);
 
 		getMyname("Najib");
 	}
+
 	public static void CherylMethod1() {
 		System.out.println("let's start the conflicts");
 
@@ -27,8 +24,6 @@ public class DemoOne {
 		nameOne("Cheryl");
 	}
 
-
-
 	public static void addName(int sajia) {
 		System.out.println(sajia);
 	}
@@ -37,7 +32,6 @@ public class DemoOne {
 		System.out.println("let's start the conflicts");
 
 		System.out.println("conflict was started from me :(");// name please?
-
 
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
@@ -64,6 +58,10 @@ public class DemoOne {
 		return result;
 	}
 
+	public static void shahid() {
+		System.out.println("random");
+
+	}
 
 	public static void getMyname(String name) {
 		System.out.println("My name is: " + name);
@@ -78,28 +76,18 @@ public class DemoOne {
 		System.out.println("Fieruz");
 	}
 
-	public static void shahid() {
-
-		System.out.println("random");
-
-		System.out.println("random");
-	}
-
-
+	
 
 	public static void OscartestingOne() {
-		System.out.println("Attempting to create a conflict");// good 
+		System.out.println("Attempting to create a conflict");// good
 		System.out.println("Attempting to create a conflict");
 
-
-
 		System.out.println("Shada");
-	    System.out.println("Adding Shada2");
-
 		System.out.println("Adding Shada2");
 
 		System.out.println("Adding Shada2");
 
+		System.out.println("Adding Shada2");
 
 		System.out.println("Adding Shada2");
 		System.out.println("Adding Shada2");
@@ -115,7 +103,7 @@ public class DemoOne {
 
 	public static void getName2(String name) {
 		System.out.println(name);
-		// my name is sajia
+
 	}
 
 	public static void OscartestingTwo() {
@@ -143,6 +131,11 @@ public class DemoOne {
 	public static void getInfo(String lastName) {
 		System.out.println("Atiq");
 
+	}
+
+	public static void addnum(int a, int b) {
+		System.out.println(a + b);
+		System.out.println("Godjob everyone");
 
 	}
 
