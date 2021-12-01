@@ -12,7 +12,6 @@ public class DemoOne {
 		System.out.println("let's start the conflicts");
 	}
 	
-	}
 
 
 	public static void OscartestingOne() {
