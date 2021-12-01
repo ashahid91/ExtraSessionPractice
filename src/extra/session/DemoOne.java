@@ -12,8 +12,12 @@ public class DemoOne {
 		System.out.println("let's start the conflicts");
 	}
 	
-	}
+	
 
+	
+	public static void shahid() {
+		System.out.println("random");
+	}
 
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
