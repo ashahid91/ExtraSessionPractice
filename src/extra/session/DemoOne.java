@@ -6,6 +6,15 @@ public class DemoOne {
 		System.out.println("I am ready ;)");
 
 		getName("Amanda");
+<<<<<<< HEAD
+	}
+	
+	public static void CherylMethod() {
+		System.out.println("let's start the conflicts");
+	}
+	
+	
+=======
 
 		getMyname("Najib");
 
@@ -13,6 +22,7 @@ public class DemoOne {
 		nameOne("Cheryl");
 
 	}
+>>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 
 	public static void addName(int sajia) {
 		System.out.println(sajia);
@@ -87,6 +97,11 @@ public class DemoOne {
 		System.out.println("Hello everyone");
 		System.out.println("this is my third try");
 	}
+<<<<<<< HEAD
+	
+
+	public static void getName1(String name) {
+=======
 
 	public static void getName2(String name) {
 		System.out.println(name);
@@ -115,6 +130,7 @@ public class DemoOne {
 
 	public static void getInfo(String lastName) {
 		System.out.println("Atiq");
+>>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 
 	}
 }
