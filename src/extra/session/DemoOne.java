@@ -7,13 +7,18 @@ public class DemoOne {
 		
 		getName("Amanda");
 	}
+
+	public static void addName(int sajia) {
+		System.out.println(sajia);
+	}
+
 	
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
 	}
 	
 
-	
+
 		
 	public static void empId(int id) {
 	System.out.println("Minky's id commit..");
@@ -22,12 +27,17 @@ public class DemoOne {
 
 	
 
+	
+
+
 
 	
 	public static void shahid() {
 		System.out.println("random");
+
 	}
 
+	
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 		
@@ -38,13 +48,19 @@ public class DemoOne {
 		
 		System.out.println("Tahmina");
 		System.out.println("Hello everyone");
+		System.out.println("this is my third try");
 	}
 	
 	public static void getName2(String name) {
 		System.out.println(name);
+		// my name is sajia
 	}
 	
 	public static void OscartestingTwo() {
 		System.out.println("I feel lucky right now");
+	}
+	
+	public static void addNum(int a, int b) {
+		System.out.println(a+b);
 	}
 }
