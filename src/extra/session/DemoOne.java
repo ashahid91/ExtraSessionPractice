@@ -17,6 +17,7 @@ public class DemoOne {
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
 		System.out.println("conflict was started from me :(");
+		System.out.println("pushing");
 	}
 	public static int myMethod(int a, int b) {
 		int result = 0;
@@ -55,7 +56,7 @@ public class DemoOne {
 		System.out.println("Attempting to create a conflict");
 		
 		System.out.println("Shada");
-		
+	    System.out.println("Adding Shada2")
 	}
 	public static void getName(String name) {
 		
