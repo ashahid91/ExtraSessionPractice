@@ -19,6 +19,7 @@ public class DemoOne {
 	
 
 
+
 		
 	public static void empId(int id) {
 	System.out.println("Minky's id commit..");
@@ -30,9 +31,17 @@ public class DemoOne {
 	
 
 
+	public static void team(String name) {
+		System.out.println("Fieruz");
+	}
+
 
 	
 	public static void shahid() {
+
+		System.out.println("random");
+
+
 		System.out.println("random");
 
 	}
