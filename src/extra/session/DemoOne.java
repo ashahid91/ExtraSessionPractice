@@ -5,24 +5,14 @@ public class DemoOne {
 		System.out.println("Let the fun begin");
 		System.out.println("I am ready ;)");
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 		String name = "waheeda";
 
-<<<<<<< HEAD
 		getName("Amanda");
 
 		addNum(20, 30);
 		addNum(20, 30);
-=======
-		
-
-
-
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 
 		getMyname("Najib");
 	
@@ -38,10 +28,7 @@ public class DemoOne {
 		nameOne("Cheryl");
 	}
 
-<<<<<<< HEAD
-=======
 
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 	public static void addName(int sajia) {
 		System.out.println(sajia);
 	}
@@ -50,14 +37,11 @@ public class DemoOne {
 
 		System.out.println("let's start the conflicts");
 
-<<<<<<< HEAD
 		System.out.println("conflict was started from me :(");// name please?
-=======
 		System.out.println("let's start the conflicts");
 
 
 
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
@@ -84,27 +68,10 @@ public class DemoOne {
 		return result;
 	}
 
-<<<<<<< HEAD
-=======
-
-
-	
-
-	
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 	public static void shahid() {
 		System.out.println("random");
 
-	}
-
-<<<<<<< HEAD
-=======
-	
-
-
-
-
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
+	}	
 	public static void getMyname(String name) {
 		System.out.println("My name is: " + name);
 		System.out.println("Pull");
@@ -122,15 +89,12 @@ public class DemoOne {
 		System.out.println("Fieruz");
 	}
 
-<<<<<<< HEAD
 	
 
-=======
 
 
 
 	
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");// good
 		System.out.println("Attempting to create a conflict");
@@ -154,19 +118,10 @@ public class DemoOne {
 		System.out.println("this is my third try");
 	}
 
-<<<<<<< HEAD
-=======
 	public static void getName1(String name) {
 
 	}
 
-
-
-
-
-
-
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 	public static void getName2(String name) {
 		System.out.println(name);
 
@@ -180,8 +135,6 @@ public class DemoOne {
 		System.out.println(a + b);
 	}
 
-<<<<<<< HEAD
-=======
 
 
 
@@ -189,8 +142,6 @@ public class DemoOne {
 
 
 
-
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 	public static void main(String count) {
 
 		count = "1,2,3...";
@@ -209,19 +160,13 @@ public class DemoOne {
 		System.out.println("Atiq");
 
 	}
-<<<<<<< HEAD
-=======
 
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 
 	public static void addnum(int a, int b) {
 		System.out.println(a + b);
 		System.out.println("Godjob everyone");
 
-<<<<<<< HEAD
-=======
 
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 	}
 
 	public static void subtractThreeNumbers(int numOne, int numTwo, int numThree) {
