@@ -8,6 +8,7 @@ public class DemoOne {
 
 		String name = "waheeda";
 
+
 		getName("Amanda");
 
 		addNum(20,30);
@@ -37,11 +38,13 @@ public class DemoOne {
 		System.out.println("let's start the conflicts");
 
 
+
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
 
 		System.out.println("practicing conflicts");
 
+		System.out.println("practicing conflicts");
 	}
 
 	public static String nameOne(String name) {
@@ -88,12 +91,18 @@ public class DemoOne {
 	}
 
 
+
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 
-		System.out.println("Shada");
 
+
+		System.out.println("Shada");
 	    System.out.println("Adding Shada2");
+
+		System.out.println("Adding Shada2");
+		System.out.println("Adding Shada2");
+
 
 		System.out.println("Adding Shada2");
 		System.out.println("Adding Shada2");
@@ -106,6 +115,9 @@ public class DemoOne {
 		System.out.println("Hello everyone");
 		System.out.println("this is my third try");
 	}
+
+
+
 
 
 	public static void getName2(String name) {
@@ -125,9 +137,18 @@ public class DemoOne {
 
 
 
+
 	public static void main(String count) {
 
 		count = "1,2,3...";
+
+		System.out.println(count);
+
+		System.out.println(count);
+
+		System.out.println(count);
+
+		System.out.println(count);
 
 	}
 
