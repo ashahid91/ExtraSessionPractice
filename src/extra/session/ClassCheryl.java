@@ -25,4 +25,5 @@ public class ClassCheryl {
 		name = "Cheryl";
 		System.out.println(name);
 	}
+	
 }
