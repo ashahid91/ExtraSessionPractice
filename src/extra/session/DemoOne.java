@@ -6,6 +6,7 @@ public class DemoOne {
 		System.out.println("I am ready ;)");
 		
 		getName("Amanda");
+		addNum(20,30);
 	}
 
 	public static void addName(int sajia) {
