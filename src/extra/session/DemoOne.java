@@ -5,6 +5,9 @@ public class DemoOne {
 		System.out.println("Let the fun begin");
 		System.out.println("I am ready ;)");
 
+
+		String name = "waheeda";
+
 		getName("Amanda");
 
 		addNum(20,30);
