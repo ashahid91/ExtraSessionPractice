@@ -22,6 +22,7 @@ public class DemoOne {
 		getMyname("Najib");
 
 		nameOne("Cheryl");
+		System.out.println(" this is the coflict makers list");
 	}
 
 	public static void addName(int sajia) {
