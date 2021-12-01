@@ -28,6 +28,7 @@ public class DemoOne {
 	public static void getName(String name) {
 		
 		System.out.println("Tahmina");
+		System.out.println("Hello everyone");
 	}
 	
 	public static void getName2(String name) {
