@@ -5,18 +5,30 @@ public class DemoOne {
 		System.out.println("Let the fun begin");
 		System.out.println("I am ready ;)");
 
-		
+
+		String name = "waheeda";
+
 	}
-	
-	
+
+	public static void CherylMethod1() {
+		System.out.println("let's start the conflicts");
+
+		getMyname("Najib");
+
+		addNum(20, 30);
+		nameOne("Cheryl");
+
+	}
+
+
+
+
 	public static void addName(int sajia) {
 		System.out.println(sajia);
 	}
 
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
-
-
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
 
@@ -45,6 +57,7 @@ public class DemoOne {
 
 	public static void getMyname(String name) {
 		System.out.println("My name is: " + name);
+		System.out.println("Pull");
 
 	}
 
@@ -73,10 +86,14 @@ public class DemoOne {
 		private String name = "Batch 5";
 	}
 
+
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 
 		System.out.println("Shada");
+
+	    System.out.println("Adding Shada2");
+
 		System.out.println("Adding Shada2");
 		System.out.println("Adding Shada2");
 
@@ -88,7 +105,6 @@ public class DemoOne {
 		System.out.println("Hello everyone");
 		System.out.println("this is my third try");
 	}
-
 
 	public static void getName1(String name) {
 
@@ -105,6 +121,12 @@ public class DemoOne {
 	public static void addNum(int a, int b) {
 		System.out.println(a + b);
 	}
+
+
+
+
+
+
 	public static void main(String count) {
 
 		count = "1,2,3...";
@@ -116,4 +138,11 @@ public class DemoOne {
 
 
 	}
+
+	public static void subtractThreeNumbers(int numOne, int numTwo, int numThree) {
+		System.out.println(numOne - numTwo - numThree); //Diana
+
+
+	}
+
 }
