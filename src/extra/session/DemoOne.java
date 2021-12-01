@@ -16,8 +16,11 @@ public class DemoOne {
 	
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
+
+
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
+
 	}
 	public static int myMethod(int a, int b) {
 		int result = 0;
@@ -52,6 +55,32 @@ public class DemoOne {
 
 	
 
+
+
+		
+	public static void empId(int id) {
+	System.out.println("Minky's id commit..");
+
+	}
+	
+
+
+	public static void team(String name) {
+		System.out.println("Fieruz");
+	}
+
+
+	
+	public static void shahid() {
+
+		System.out.println("random");
+
+
+		System.out.println("random");
+
+	}
+
+	
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 		
@@ -77,7 +106,16 @@ public class DemoOne {
 	public static void addNum(int a, int b) {
 		System.out.println(a+b);
 	}
+
+	
+	public static void main(String count) {
+		
+		count = "1,2,3...";
+		
+	}
+
 	public static void getInfo(String lastName) {
 		System.out.println("Atiq");
+
 	}
 }
