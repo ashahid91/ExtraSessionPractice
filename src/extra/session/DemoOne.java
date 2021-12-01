@@ -70,7 +70,7 @@ public class DemoOne {
 	}
 
 	public static void OscartestingOne() {
-		System.out.println("Attempting to create a conflict");
+		System.out.println("Attempting to create a conflict");// good 
 
 		System.out.println("Shada");
 
@@ -83,7 +83,7 @@ public class DemoOne {
 
 		System.out.println("Tahmina");
 		System.out.println("Hello everyone");
-		System.out.println("this is my third try");
+		System.out.println("this is my third try");// your name please
 	}
 
 	public static void getName2(String name) {
