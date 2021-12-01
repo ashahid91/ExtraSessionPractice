@@ -26,7 +26,8 @@ public class DemoOne {
 		System.out.println("Tahmina");
 	}
 	
+
 	public static void getName1(String name) {
-		System.out.println(name);
+
 	}
 }
