@@ -33,9 +33,6 @@ public class DemoOne {
 	}
 	
 
-
-
-
 		
 	public static void empId(int id) {
 	System.out.println("Minky's id commit..");
