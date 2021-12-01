@@ -38,4 +38,8 @@ public class DemoOne {
 	public static void OscartestingTwo() {
 		System.out.println("I feel lucky right now");
 	}
+	
+	public static void addNum(int a, int b) {
+		System.out.println(a+b);
+	}
 }
