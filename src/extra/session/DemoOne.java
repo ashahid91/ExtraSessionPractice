@@ -17,6 +17,7 @@ public class DemoOne {
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
 		System.out.println("conflict was started from me :(");
+		System.out.println("pushing");
 	}
 	public static int myMethod(int a, int b) {
 		int result = 0;
