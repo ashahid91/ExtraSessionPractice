@@ -26,7 +26,7 @@ public class DemoOne {
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
 
-		System.out.println("conflict was started from me :(");
+		System.out.println("conflict was started from me :(");// name please?
 		System.out.println("pushing");
 
 		System.out.println("practicing conflicts");
@@ -83,7 +83,7 @@ public class DemoOne {
 
 		System.out.println("Tahmina");
 		System.out.println("Hello everyone");
-		System.out.println("this is my third try");// your name please
+		System.out.println("this is my third try");
 	}
 
 	public static void getName2(String name) {
