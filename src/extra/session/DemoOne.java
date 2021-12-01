@@ -19,6 +19,24 @@ public class DemoOne {
 	}
 	
 
+
+
+		
+	public static void empId(int id) {
+	System.out.println("Minky's id commit..");
+
+	}
+
+	
+
+	
+
+
+	public static void team(String name) {
+		System.out.println("Fieruz");
+	}
+
+
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 		
