@@ -7,18 +7,18 @@ public class DemoOne {
 		
 		getName("Amanda");
 	}
+
+	public static void addName(int sajia) {
+		System.out.println(sajia);
+	}
+
 	
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
 		System.out.println("conflict was started from me :(");
 	}
 	
-	
-	public static void shahid() {
-		System.out.println("random");
-	}
 
-	
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 		
@@ -34,6 +34,7 @@ public class DemoOne {
 	
 	public static void getName2(String name) {
 		System.out.println(name);
+		// my name is sajia
 	}
 	
 	public static void OscartestingTwo() {
