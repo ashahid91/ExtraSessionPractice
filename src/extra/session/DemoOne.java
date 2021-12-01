@@ -7,6 +7,7 @@ public class DemoOne {
 		
 		getName("Amanda");
 		addNum(20,30);
+		nameOne("Cheryl");
 	}
 
 	public static void addName(int sajia) {
@@ -20,7 +21,11 @@ public class DemoOne {
 
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
-
+        System.out.println("practicing conflicts");
+	}
+	public static String nameOne(String name) {
+	
+		return name;
 	}
 	public static int myMethod(int a, int b) {
 		int result = 0;
@@ -30,7 +35,10 @@ public class DemoOne {
 		a = a + b;
 		
 		return result;
+		
+		
 	}
+
 
 	
 
@@ -43,11 +51,16 @@ public class DemoOne {
 	
 
 
+
+
+
 		
 	public static void empId(int id) {
 	System.out.println("Minky's id commit..");
 
 	}
+	
+
 
 	public static void team(String name) {
 		System.out.println("Fieruz");
@@ -59,12 +72,13 @@ public class DemoOne {
 
 
 	
-	
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 		
 		System.out.println("Shada");
 	    System.out.println("Adding Shada2");
+	    System.out.println("Adding Shada2");
+	    
 	}
 	public static void getName(String name) {
 		
