@@ -55,4 +55,7 @@ public class DemoOne {
 	public static void addNum(int a, int b) {
 		System.out.println(a+b);
 	}
+	public static void getInfo(String lastName) {
+		System.out.println("Atiq");
+	}
 }
