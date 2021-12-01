@@ -60,6 +60,8 @@ public class DemoOne {
 		
 		System.out.println("Shada");
 	    System.out.println("Adding Shada2");
+	    System.out.println("Adding Shada2");
+	    
 	}
 	public static void getName(String name) {
 		
