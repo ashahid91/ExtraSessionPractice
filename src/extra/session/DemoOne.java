@@ -45,7 +45,7 @@ public class DemoOne {
 	}
 	
 
-
+    // added
 	public static void team(String name) {
 		System.out.println("Fieruz");
 	}
