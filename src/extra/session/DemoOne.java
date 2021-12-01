@@ -23,6 +23,13 @@ public class DemoOne {
 
 		nameOne("Cheryl");
 		System.out.println(" this is the coflict makers list");
+		
+	}
+	
+	public static String myInfo(String name ) {
+		String result= "";
+		return  "waheeda";
+		
 	}
 
 	public static void addName(int sajia) {
