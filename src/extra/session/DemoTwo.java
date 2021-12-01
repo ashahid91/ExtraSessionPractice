@@ -6,6 +6,7 @@ public class DemoTwo {
 		System.out.println("Hi from second class");
 		
 		divNum(60,2);
+		divNum(220,4);
 	}
 	
 	
