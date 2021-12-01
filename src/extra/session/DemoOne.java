@@ -7,12 +7,14 @@ public class DemoOne {
 
 		getName("Amanda");
 
+
 		getMyname("Najib");
 
 		addNum(20, 30);
 		nameOne("Cheryl");
 
 	}
+
 
 	public static void addName(int sajia) {
 		System.out.println(sajia);
@@ -50,6 +52,7 @@ public class DemoOne {
 
 	public static void getMyname(String name) {
 		System.out.println("My name is: " + name);
+		System.out.println("Pull");
 
 	}
 
@@ -87,6 +90,7 @@ public class DemoOne {
 		System.out.println("this is my third try");
 	}
 
+
 	public static void getName2(String name) {
 		System.out.println(name);
 		// my name is sajia
@@ -99,6 +103,9 @@ public class DemoOne {
 	public static void addNum(int a, int b) {
 		System.out.println(a + b);
 	}
+
+
+
 
 
 	public static void main(String count) {
