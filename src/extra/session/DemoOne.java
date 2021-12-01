@@ -13,6 +13,8 @@ public class DemoOne {
 		addNum(20,30);
 
 
+
+		getMyname("Najib");
 	}
 
 	public static void CherylMethod1() {
