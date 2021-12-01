@@ -7,6 +7,7 @@ public class DemoOne {
 		
 		getName("Amanda");
 		addNum(20,30);
+		nameOne("Cheryl");
 	}
 
 	public static void addName(int sajia) {
@@ -21,6 +22,10 @@ public class DemoOne {
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
         System.out.println("practicing conflicts");
+	}
+	public static String nameOne(String name) {
+	
+		return name;
 	}
 	public static int myMethod(int a, int b) {
 		int result = 0;
