@@ -29,6 +29,8 @@ public class DemoOne {
 		
 		a = a + b;
 		
+		sum = a + a + b + b;
+		
 		return result;
 	}
 	
