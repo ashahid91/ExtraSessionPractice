@@ -19,6 +19,7 @@ public class DemoOne {
 		System.out.println("random");
 	}
 
+	
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 		
@@ -29,6 +30,7 @@ public class DemoOne {
 		
 		System.out.println("Tahmina");
 		System.out.println("Hello everyone");
+		System.out.println("this is my third try");
 	}
 	
 	public static void getName2(String name) {
