@@ -6,7 +6,16 @@ public class ClassShada {
 		
 		int c = 66;
 		
-
+		int d = 99;
+		
+		int sum = c+d;
+		
+    messUp("Sorry ^^");
+	}
+	
+	public static String messUp(String randomName) {
+		return randomName; //Cheryl
+		//sorry Shada, good practice ^^!
 	}
 
 }
