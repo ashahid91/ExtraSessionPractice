@@ -11,7 +11,7 @@ public class DemoOne {
 
 	}
 
-	public static void CherylMethod() {
+	public static void CherylMethod1() {
 		System.out.println("let's start the conflicts");
 
 		getMyname("Najib");
