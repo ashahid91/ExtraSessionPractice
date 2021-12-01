@@ -21,17 +21,12 @@ public class DemoOne {
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
 
-<<<<<<< HEAD
 
-=======
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
-<<<<<<< HEAD
 
-=======
 		System.out.println("practicing conflicts");
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
+
 	}
 
 	public static String nameOne(String name) {
@@ -52,15 +47,12 @@ public class DemoOne {
 
 	}
 
-<<<<<<< HEAD
-		
-=======
+
 	public static void getMyname(String name) {
 		System.out.println("My name is: " + name);
 
 	}
 
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 	public static void empId(int id) {
 		System.out.println("Minky's id commit..");
 
@@ -108,10 +100,7 @@ public class DemoOne {
 		System.out.println(a + b);
 	}
 
-<<<<<<< HEAD
-	
-=======
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
+
 	public static void main(String count) {
 
 		count = "1,2,3...";
