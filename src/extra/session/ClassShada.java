@@ -6,6 +6,10 @@ public class ClassShada {
 		
 		int c = 66;
 		
+		int d = 99;
+		
+		int sum = c+d;
+		
 
 	}
 
