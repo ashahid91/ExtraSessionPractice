@@ -12,7 +12,10 @@ public class DemoOne {
 		System.out.println("let's start the conflicts");
 	}
 	
-
+	
+	public static void shahid() {
+		System.out.println("random");
+	}
 
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
@@ -23,6 +26,7 @@ public class DemoOne {
 	public static void getName(String name) {
 		
 		System.out.println("Tahmina");
+		System.out.println("Hello everyone");
 	}
 	
 	public static void getName2(String name) {
