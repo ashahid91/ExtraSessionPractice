@@ -6,6 +6,7 @@ public class DemoOne {
 		System.out.println("I am ready ;)");
 		
 		getName("Amanda");
+		addNum(20,30);
 	}
 
 	public static void addName(int sajia) {
@@ -15,8 +16,19 @@ public class DemoOne {
 	
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
+		System.out.println("conflict was started from me :(");
+	}
+	public static int myMethod(int a, int b) {
+		int result = 0;
+		
+		int sum = 0;
+		
+		a = a + b;
+		
+		return result;
 	}
 	
+
 	
 	public static void shahid() {
 		System.out.println("random");
@@ -24,6 +36,9 @@ public class DemoOne {
 	}
 
 	
+
+
+
 	public static void OscartestingOne() {
 		System.out.println("Attempting to create a conflict");
 		
@@ -39,7 +54,7 @@ public class DemoOne {
 	
 	public static void getName2(String name) {
 		System.out.println(name);
-		// my name is sajia
+		
 	}
 	
 	public static void OscartestingTwo() {
@@ -48,5 +63,8 @@ public class DemoOne {
 	
 	public static void addNum(int a, int b) {
 		System.out.println(a+b);
+	}
+	public static void extraSection(int d, int c) {
+		System.out.println(d + c);
 	}
 }
