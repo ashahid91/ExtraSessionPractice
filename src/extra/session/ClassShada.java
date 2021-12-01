@@ -10,6 +10,9 @@ public class ClassShada {
 		
 		int sum = c+d;
 		
+		int num = c-d;
+		
+		
     messUp("Sorry ^^");
 	}
 	
