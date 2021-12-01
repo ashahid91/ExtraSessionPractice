@@ -17,16 +17,13 @@ public class DemoOne {
 		System.out.println("let's start the conflicts");
 	}
 	
-	
-<<<<<<< HEAD
-	public static void addName(int sajia) {
-		System.out.println(sajia);
-=======
+	public static void team(String name) {
+		System.out.println("Fieruz");
+	}
 
 	
 	public static void shahid() {
 		System.out.println("random");
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 	}
 
 	
