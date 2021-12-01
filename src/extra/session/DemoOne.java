@@ -6,6 +6,7 @@ public class DemoOne {
 		System.out.println("I am ready ;)");
 		
 		getName("Amanda");
+		addNum(20,30);
 	}
 
 	public static void addName(int sajia) {
@@ -17,19 +18,16 @@ public class DemoOne {
 		System.out.println("let's start the conflicts");
 		System.out.println("conflict was started from me :(");
 	}
-	
-
+	public static int myMethod(int a, int b) {
+		int result = 0;
 		
-	public static void empId(int id) {
-	System.out.println("Minky's id commit..");
-
+		int sum = 0;
+		
+		a = a + b;
+		
+		return result;
 	}
-
 	
-
-	public static void team(String name) {
-		System.out.println("Fieruz");
-	}
 
 
 	public static void OscartestingOne() {
