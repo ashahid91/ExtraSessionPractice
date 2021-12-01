@@ -10,7 +10,12 @@ public class ClassShada {
 		
 		int sum = c+d;
 		
-
+    messUp("Sorry ^^");
+	}
+	
+	public static String messUp(String randomName) {
+		return randomName; //Cheryl
+		//sorry Shada, good practice ^^!
 	}
 
 }
