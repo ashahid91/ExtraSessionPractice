@@ -8,12 +8,19 @@ public class DemoOne {
 		getName("Amanda");
 
 
+
+	}
+
+	public static void CherylMethod() {
+		System.out.println("let's start the conflicts");
+
 		getMyname("Najib");
 
 		addNum(20, 30);
 		nameOne("Cheryl");
 
 	}
+
 
 
 	public static void addName(int sajia) {
