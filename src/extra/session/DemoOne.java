@@ -38,18 +38,17 @@ public class DemoOne {
 
 		System.out.println("let's start the conflicts");
 
-<<<<<<< HEAD
 
 
 
 
-=======
+
+
 		System.out.println("let's start the conflicts");
 
 
 
 
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 		System.out.println("conflict was started from me :(");
 		System.out.println("pushing");
 
@@ -78,8 +77,7 @@ public class DemoOne {
 
 	}
 
-<<<<<<< HEAD
-=======
+
 
 
 	
@@ -95,7 +93,6 @@ public class DemoOne {
 
 
 
->>>>>>> branch 'master' of https://github.com/ashahid91/ExtraSessionPractice.git
 	public static void getMyname(String name) {
 		System.out.println("My name is: " + name);
 		System.out.println("Pull");
