@@ -52,7 +52,7 @@ public class DemoOne {
 	}
 	
 
-    // added
+    // added new
 	public static void team(String name) {
 		System.out.println("Fieruz");
 	}
