@@ -16,6 +16,15 @@ public class DemoOne {
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
 	}
+	public static int myMethod(int a, int b) {
+		int result = 0;
+		
+		int sum = 0;
+		
+		a = a + b;
+		
+		return result;
+	}
 	
 
 
