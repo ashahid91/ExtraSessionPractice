@@ -12,5 +12,6 @@ public class DemoTwo {
 	
 	public static void divNum(int a, int b) {
 		System.out.println(a/b);
+		System.out.println("Added by Amanda");
 	}
 }
