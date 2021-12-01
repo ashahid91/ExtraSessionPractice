@@ -6,12 +6,14 @@ public class DemoOne {
 		System.out.println("I am ready ;)");
 		
 		getName("Amanda");
+		getMyname("Najib");
 	}
 	
 	public static void CherylMethod() {
 		System.out.println("let's start the conflicts");
 	}
-	
+	public static void getMyname(String name) {
+		System.out.println("My name is: " + name);
 	}
 
 
